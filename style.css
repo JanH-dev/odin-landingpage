@@ -31,3 +31,16 @@ ul{
 a{
     text-decoration: none;
 }
+
+#hero_pic{
+    width: 10rem;
+    height: auto;
+}
+
+.hero{
+    padding: 1rem 7rem;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    background-color: darkcyan;
+}
