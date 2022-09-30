@@ -17,7 +17,7 @@ body{
     font-size: large;
 }
 
-.left{
+.header .left{
     display: flex;
     gap: 2rem;
 }
